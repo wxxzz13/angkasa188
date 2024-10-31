@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Mon, 27 May 2024 02:10:58 at https://texas88.biz.id +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/Angkasa99 -iC1A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://texas88.biz.id +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:10:58	Warning: 	Link https://texas88.biz.id/mobile/index.php?page=daftar&reff= not scanned (follow robots meta tag)
+02:10:58	Warning: 	Link https://texas88.biz.id/mobile/index.php not scanned (follow robots meta tag)
+02:10:58	Warning: 	Link https://texas88.biz.id/dekstop/index.php?page=daftar&reff= not scanned (follow robots meta tag)
+02:10:59	Warning: 	Link https://texas88.biz.id/dekstop/index.php not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 seconds : 8 links scanned, 7 files written (286031 bytes overall), no files updated [0 bytes received at 0 bytes/sec]
+(No errors, 4 warnings, 0 messages)

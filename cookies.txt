@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+texas88.biz.id	TRUE	/	FALSE	1999999999	PHPSESSID	769be30f3803b4b7b799cc89abaaf17f
+.linkcdn.cloud	TRUE	/	FALSE	1999999999	__cf_bm	uLE9gZ8uHM2Femzoj6S_CExXeq6y3cPZg05H.D6kifw-1716713029-1.0.1.1-CN.RTCLA2aGJDeAvlf5EulvQ.Bn6Pzbu1FTJXCHH78XnkGEL8MN2EAnikj.7Kx36N1lZq84BMkkIDo.dlpLp5w
+images.linkcdn.cloud	TRUE	/	FALSE	1999999999	SameSite	None
+
